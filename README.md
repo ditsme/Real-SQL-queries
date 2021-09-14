@@ -3,7 +3,7 @@ While preparing for Product/Data Analyst interviews, I couldn't find any real SQ
 
 I will keep adding the questions here and link the solutions in the repository.
 
-## 1 Product Analyst interview
+## 1. Product Analyst interview
 
 1. Get the day wise D1 and D7 retention rate for last 30 days for a given date
 
