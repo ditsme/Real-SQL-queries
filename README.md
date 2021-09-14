@@ -10,7 +10,9 @@ I will keep adding the questions here and link the solutions in the repository.
 Table available:
 
 App_opened
+
 date   user_id
+
 01-02    a
 01-02    b
 02-02    c
