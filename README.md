@@ -51,7 +51,7 @@ date    |   user_id
 02-02   |    c
 ...     |
 
-Reels_open
+Reels_open table
 
 date    |   user_id     
 -----   | -------
