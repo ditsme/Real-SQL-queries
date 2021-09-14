@@ -1,9 +1,9 @@
 # Real-SQL-Interview-questions
-While preparing for Product/Data Analyst interviews , I couldn't find any real SQL queries that are asked, so here it is.
+While preparing for Product/Data Analyst interviews, I couldn't find any real SQL queries that are asked, so here it is.
 
 I will keep adding the questions here and link the solutions in the repository.
 
-#1 Product Analyst interview
+## 1 Product Analyst interview
 
 1. Get the day wise D1 and D7 retention rate for last 30 days for a given date
 
