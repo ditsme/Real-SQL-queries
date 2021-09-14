@@ -9,31 +9,23 @@ I will keep adding the questions here and link the solutions in the repository.
 
 Table available: App_opened
 
-date   user_id
-
-01-02    a
-
-01-02    b
-
-02-02    c
-
-..
-
-..
+date | user_id
+----- | ------
+01-02 |  a
+01-02 | b
+02-02 | c
+.. |
+.. |
 
 
 Output:
 
-date       D1    D7
-
-18-07(D0)  50%   30%
-
-19-07(D0)  40%   20%
-
-...
-
-...
-
-18-08      40%   -
+date    |   D1   | D7
+------- | ------ | -----
+18-07(D0) |  50% |  30%
+19-07(D0) | 40%  | 20%
+...       |       |
+...       |       |
+18-08     |  40%  | -
 
 
